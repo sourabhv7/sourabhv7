@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **C++, Python**
 
-- 🌱 I’m currently learning **DSA, Google Cloud, Forencics**
+- 🌱 I’m currently learning **DSA, Google Cloud, Forensics**
 
-- 👨‍💻 Some of my old projects are available at [https://github.com/sourabhv7/repositories](https://github.com/sourabhv7/repositories)
+- 👨‍💻 Some of my old projects are available at [here](https://github.com/sourabhv7?tab=repositories)
 
 - 💬 Ask me about **Python & Cyber Security**
 
