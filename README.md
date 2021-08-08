@@ -24,8 +24,7 @@
 <a href="https://fb.com/sourabh.verma.31521" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/124/124010.svg" alt="sourabhverma" height="30" width="40" /></a>
 <a href="https://instagram.com/mr._sourabh7" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" alt="sourabhverma" height="30" width="40" /></a>
 <a href="https://twitter.com/Sourabh04117022" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" alt="sourabhverma" height="30" width="40" /></a>
-</p>
-<a href="https://geekerbuddy.cf" target="blank"><img align="center" src="https://www.flaticon.com/svg/static/icons/svg/558/558593.svg" alt="GeekerBuddy" height="30" width="40" /></a>
+<a href="https://geekerbuddy.cf" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/1011/1011373.png" alt="GeekerBuddy" height="30" width="40" /></a>
 </p>
 
 
